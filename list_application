@@ -1,5 +1,10 @@
-#####about Zip application
+list is mutable, in comparison, tuple and string is immutable
+x=[1,2,3]
+x[2]=5
 
+
+
+#####about Zip application
  p = [[1,2,3],[4,5,6]]
 
 If I do :
