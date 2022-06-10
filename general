@@ -1,0 +1,4 @@
+about Nan
+pd.isna()
+data.iloc[1,1]==np.None #for Nan , False, you have to use isna()
+The short answer is IEEE 754 specifies NaN as a float value.
