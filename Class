@@ -1,0 +1,6 @@
+
+https://betterprogramming.pub/how-to-use-the-magical-staticmethod-classmethod-and-property-decorators-in-python-e42dd74e51e7
+understand
+@staticmethod
+@classmethod
+@property (getter and setter method)
