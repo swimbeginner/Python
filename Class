@@ -1,6 +1,9 @@
 
 https://betterprogramming.pub/how-to-use-the-magical-staticmethod-classmethod-and-property-decorators-in-python-e42dd74e51e7
+https://www.youtube.com/watch?v=jCzT9XFZ5bw
+
 understand
 @staticmethod
 @classmethod
-@property (getter and setter method)
+@property (getter and setter, deleter method)
+
