@@ -24,3 +24,8 @@ asset_list_np=np.array(asset_list)
 
 *remove element
 asset_list.pop(-1)
+
+############# sort list by number in the name
+import re
+test=['Excelspyroday0.OUT', 'Excelspyroday9.OUT', 'Excelspyroday10.OUT']
+test.sort(key=lambda x: int(re.sub('\D', '', x)))
